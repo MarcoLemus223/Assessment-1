@@ -1,0 +1,1 @@
+console.log("Welcome! To the password validator tool")

@@ -28,7 +28,7 @@ Maintain
 var Planning = 'Includes distribution of work across teams, setting milestones, creating timelines for delivery'
 console.log(Planning)
 
-var AnalysisofRequirements = 'Analysis of the entire project carefully'
+var AnalysisOfRequirements = 'Analysis of the entire project carefully'
 console.log(AnalysisofRequirements)
 
 var Design = 'Creating the architecture of the software system and its elements'

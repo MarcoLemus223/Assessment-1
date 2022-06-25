@@ -55,7 +55,7 @@ console.log(initCode)
 //CODE HERE
 
 let clone = 'used to point to an existing repo and make a clone or copy of that repo at in a new diectory at another location'
-let cloneCode = 'git clone'
+let cloneCode = 'git clone <URL>'
 console.log(clone)
 console.log(cloneCode)
 
@@ -95,7 +95,7 @@ console.log(addCode)
 //CODE HERE
 
 let commit = 'create a snapshot of the files im tracking'
-let commitCode = 'git commit'
+let commitCode = 'git commit -m'
 console.log(commit)
 console.log(commitCode)
 

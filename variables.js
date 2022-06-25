@@ -11,7 +11,7 @@ console.log(myName)
 
 //CODE HERE
 
-let faveNum = '56'
+let faveNum = 56
 console.log(faveNum)
 
 //////////////////PROBLEM 3////////////////////
@@ -19,7 +19,7 @@ console.log(faveNum)
 
 //CODE HERE
 
-let lovesCode = (true < false)
+let lovesCode = true
 console.log(lovesCode)
 
 //////////////////PROBLEM 4////////////////////
@@ -31,7 +31,7 @@ console.log(lovesCode)
 
 //CODE HERE
 
-if(faveNum = 13){
+if(faveNum === 13){
   console.log('lucky 13')
 } else{
   console.log('not lucky 13')
@@ -43,5 +43,5 @@ if(faveNum = 13){
 
 //CODE HERE
 
-for(let i = 0; i <= 5; i++)
+for(let i = 0; i < 5; i++)
 console.log('56')
